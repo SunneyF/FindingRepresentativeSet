@@ -10,17 +10,6 @@ The instances are taken from <a href="https://fenix.tecnico.ulisboa.pt/homepage/
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    /* CSS styling for the illustrations */
-    .folder {
-      display: inline-block;
-      margin: 10px;
-    }
-
-    .subfolder {
-      margin-left: 20px;
-    }
-  </style>
 </head>
 <body>
   <h1>Folder Structure</h1>
