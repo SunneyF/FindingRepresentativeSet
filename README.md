@@ -7,7 +7,7 @@ The GTRAP is a model developed for GKN Aerospace AB,Sweden. The instances are ma
 
 ## Three-dimensional knapsack problem (3KP):
 The instances are taken from <a href="https://fenix.tecnico.ulisboa.pt/homepage/ist175325/instances">M. Mesquita-Cunha, J.R. Figueira and A.P. Barbosa-Póvoa</a>. The data is copied and stored here <a href="https://github.com/SunneyF/FindingRepresentativeSet/blob/main/3KP/Instances.zip"> 3KP Instances</a>. However, we have randomly chosen 10 instances per class for assessment <a href="https://github.com/SunneyF/FindingRepresentativeSet/blob/main/3KP/Instances_3kp.zip"> 3KP instances
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <style>
