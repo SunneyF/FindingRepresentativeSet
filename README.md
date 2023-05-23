@@ -18,9 +18,9 @@ The instances are taken from <a href="https://fenix.tecnico.ulisboa.pt/homepage/
     <h3>Main Folder</h3>
     <ul>
       <li class="subfolder">
-        <h4>3KP_n1_T0_g1</h4>
+        <h4>3KPn1-T0-g1</h4>
         <ul>
-          <li>3KPn1-T0-g1-1.dat</li>
+          <li>3KPn1-T0-g1-x.dat</li>
           <li>file2.dat</li>
           <li>...</li>
           <li>file10.dat</li>
