@@ -18,16 +18,16 @@ The instances are taken from <a href="https://fenix.tecnico.ulisboa.pt/homepage/
     <h3>Main Folder</h3>
     <ul>
       <li class="subfolder">
-        <h4>Subfolder 1 (n1-g1)</h4>
+        <h4>3KP_n1_T0_g1</h4>
         <ul>
-          <li>file1.dat</li>
+          <li>3KPn1-T0-g1-1.dat</li>
           <li>file2.dat</li>
           <li>...</li>
           <li>file10.dat</li>
         </ul>
       </li>
       <li class="subfolder">
-        <h4>Subfolder 2 (n2-g2)</h4>
+        <h4>3KP_n2_T0_g2</h4>
         <ul>
           <li>file1.dat</li>
           <li>file2.dat</li>
