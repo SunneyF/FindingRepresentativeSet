@@ -1,1 +1,1 @@
-This folder contains instances for three-dimensional knapsack problem. For original source look at https://fenix.tecnico.ulisboa.pt/homepage/ist175325/instances
+This folder contains instances for three-dimensional knapsack problem. For original source look at https://fenix.tecnico.ulisboa.pt/homepage/ist175325/instances. However, we have chosen only 10 istances per class. 
