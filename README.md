@@ -12,10 +12,10 @@ The instances are taken from <a href="https://fenix.tecnico.ulisboa.pt/homepage/
 <head>
 </head>
 <body>
-  <h1>Folder Structure</h1>
+  <h2>Folder Structure</h2>
 
   <div class="folder">
-    <h2>Main Folder</h2>
+    <h3>Main Folder</h3>
     <ul>
       <li class="subfolder">
         <h3>Subfolder 1 (n1-g1)</h3>
