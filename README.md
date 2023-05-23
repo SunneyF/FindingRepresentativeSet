@@ -18,7 +18,7 @@ The instances are taken from <a href="https://fenix.tecnico.ulisboa.pt/homepage/
     <h3>Main Folder</h3>
     <ul>
       <li class="subfolder">
-        <h3>Subfolder 1 (n1-g1)</h3>
+        <h4>Subfolder 1 (n1-g1)</h4>
         <ul>
           <li>file1.dat</li>
           <li>file2.dat</li>
@@ -27,7 +27,7 @@ The instances are taken from <a href="https://fenix.tecnico.ulisboa.pt/homepage/
         </ul>
       </li>
       <li class="subfolder">
-        <h3>Subfolder 2 (n2-g2)</h3>
+        <h4>Subfolder 2 (n2-g2)</h4>
         <ul>
           <li>file1.dat</li>
           <li>file2.dat</li>
